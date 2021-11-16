@@ -1,4 +1,4 @@
-# :deciduous_tree: Wanawasa (Guardian of the Forest)
+# :deciduous_tree: Wanawasa: Guardian of the Forest
 
 ## :superhero_man: Team
 
@@ -14,7 +14,7 @@ Jagawana adalah seseorang yang sangat peduli terhadap lingkungan, terutama keles
 
 Sepanjang hayat, Jagawana menghabiskan waktunya untuk menanam bibit-bibit pohon. Suatu ketika, muncul desas-desus bahwa akan ada alih fungsi lahan secara besar-besaran yang ramai diperbincangkan oleh warga desa, tempat Jagawana tinggal. 
 
-Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon-pohon yang telah Jagawana tanam sebelumnya. Tak ada pilihan lain, Jagawana ditantang untuk melawan oknum tersebut sebelum pohon-pohon yang terbakar semakin meluas. Akankah Jagawana berhasil melawan para oknum dan menyelamatkan hutan?
+Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon-pohon yang telah Jagawana tanam sebelumnya. Tak ada pilihan lain, Jagawana harus melawan oknum tersebut sebelum pohon-pohon yang terbakar semakin meluas. Akankah Jagawana berhasil melawan para oknum dan menyelamatkan hutan?
 
 ## :dart: Goals
 
@@ -34,15 +34,26 @@ Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon
 
 ### Week 1
 
-- Lorem ipsum
+- Brainstorming ide
+- Membuat project story dan goals
+- First commit ke github
 
 ### Week 2
 
-- Lorem ipsum
+- Mencari assets di unity assets store
+- Mematangkan ide, story, dan goals project
+- Menambahkan aturan-aturan pada game dan cara memainkannya
 
 ### Week 3
 
-- Lorem ipsum
+- Setting unity collaboration untuk project management
+- Menambahkan basic script
+- Object movement
+- View camera
+
+### Week 4
+
+- Menambahkan main menu: play, options, manual, credits, exit
 
 ## :bow: Assets
 
