@@ -1,6 +1,6 @@
-# Title
+# :deciduous_tree: Wanawasa (Guardian of the Forest)
 
-## Team
+## :superhero_man: Team
 
 | Name                     | NIM       | Role                             |
 | ------------------------ | --------- | -------------------------------- |
@@ -9,27 +9,28 @@
 | Linuz Tri Erianto        | G64190027 | Game programmer & animator       |
 | Muhamad Ilham Fadillah   | G64190028 | Game programmer & QA tester      |
 
-## Story
+## :open_book: Story
+Jagawana adalah seseorang yang sangat peduli terhadap lingkungan, terutama kelestarian hutan. Karena budaya yang tumbuh di keluarganya, Ia selalu memanfaatkan hasil hutan untuk memenuhi kebutuhan primer seperti mengonsumsi sagu dan buah-buahan. Sejak saat itu, Jagawana merasa memiliki tanggung jawab untuk menjaga dan melestarikan hutan. 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+Sepanjang hayat, Jagawana menghabiskan waktunya untuk menanam bibit-bibit pohon. Suatu ketika, muncul desas-desus bahwa akan ada alih fungsi lahan secara besar-besaran yang ramai diperbincangkan oleh warga desa, tempat Jagawana tinggal. 
 
-## Rules
+Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon-pohon yang telah Jagawana tanam sebelumnya. Tak ada pilihan lain, Jagawana ditantang untuk melawan oknum tersebut sebelum pohon-pohon yang terbakar semakin meluas. Akankah Jagawana berhasil melawan para oknum dan menyelamatkan hutan?
 
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
+## :dart: Goals
 
-## Goals
+- Bunuh semua oknum dan padamkan pohon-pohon yang terbakar
 
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
+## :page_with_curl: Rules
 
-## How to play
+- Oknum dapat memberikan perlawanan dan mengurangi darah si Jagawana
+- Jagawana diberikan batasan waktu untuk melakukan semua misi sebelum hutan yang terbakar makin meluas
+- Di sekitar hutan terdapat tanaman obat yang dapat dikonsumsi oleh Jagawana untuk menambah darah
 
-Lorem ipsum dolor sit amet
+## :question: How to play
 
-## Development Progress
+**Movement**    : Tekan A/D untuk bergerak ke sumbu horizontal dan W/S ke sumbu vertikal
+
+## :computer: Development Progress
 
 ### Week 1
 
@@ -43,15 +44,18 @@ Lorem ipsum dolor sit amet
 
 - Lorem ipsum
 
-## Assets
+## :bow: Assets
 
-- Lorem ipsum
-- Lorem ipsum
+- [Pixel Art Top Down - Basic](https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605 "Pixel Art Top Down - Basic")
+- [2D Character - Astronaut](https://assetstore.unity.com/packages/2d/characters/2d-character-astronaut-182650 "2D Character - Astronaut")
+- [Aldschutze](https://opengameart.org/content/4-elements-8x10px "4 icons of  4 basic elements: Water, Fire, Earth, Air")
 
-## Technology Used
+## :toolbox: Technology Used
+Tech-stack used for this game:
+- Visual studio
+- Unity
+- Adobe Photoshop
 
-Lorem ipsum
+## :video_game: Game View
 
-## Game View
-
-screenshots
+screenshots...
