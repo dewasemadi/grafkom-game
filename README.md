@@ -29,8 +29,8 @@ Desas-desus itu pun menjadi kenyataan, oknum tak bertanggung jawab membakar poho
 
 ## :question: How to play
 
-**Movement**    : Tekan A/D untuk bergerak ke sumbu horizontal dan W/S ke sumbu vertikal
-**Drag & Drop** : Klik kiri lalu tahan pada cursor untuk memindahkan ember yang berisi air
+- **Movement**    : Tekan A/D untuk bergerak ke sumbu horizontal dan W/S ke sumbu vertikal
+- **Drag & Drop** : Klik kiri lalu tahan pada cursor untuk memindahkan ember yang berisi air
 
 ## :computer: Development Progress
 
