@@ -14,7 +14,7 @@ Jagawana adalah seseorang yang sangat peduli terhadap lingkungan, terutama keles
 
 Sepanjang hayat, Jagawana menghabiskan waktunya untuk menanam bibit-bibit pohon. Suatu ketika, muncul desas-desus bahwa akan ada alih fungsi lahan secara besar-besaran yang ramai diperbincangkan oleh warga desa, tempat Jagawana tinggal. 
 
-Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon-pohon yang telah Jagawana tanam sebelumnya. Tak ada pilihan lain, Jagawana harus melawan oknum tersebut sebelum pohon-pohon yang terbakar semakin meluas. Akankah Jagawana berhasil melawan para oknum dan menyelamatkan hutan?
+Desas-desus itu pun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon-pohon yang telah Jagawana tanam sebelumnya. Tak ada pilihan lain, Jagawana harus melawan oknum tersebut sebelum pohon-pohon yang terbakar semakin meluas. Akankah Jagawana berhasil melawan para oknum dan menyelamatkan hutan?
 
 ## :dart: Goals
 
@@ -25,6 +25,8 @@ Desas-desus itupun menjadi kenyataan, oknum tak bertanggung jawab membakar pohon
 - Oknum dapat memberikan perlawanan dan mengurangi darah si Jagawana
 - Jagawana diberikan batasan waktu untuk melakukan semua misi sebelum hutan yang terbakar makin meluas
 - Di sekitar hutan terdapat tanaman obat yang dapat dikonsumsi oleh Jagawana untuk menambah darah
+- Game akan berakhir apabila batasan waktu dan darah Jagawana habis 
+- Jagawana diberikan mini map untuk mencari posisi pohon yang dibakar oleh oknum tak bertanggung jawab
 
 ## :question: How to play
 
