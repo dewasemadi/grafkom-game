@@ -23,7 +23,7 @@ Desas-desus itu pun menjadi kenyataan, oknum tak bertanggung jawab membakar poho
 
 ## :page_with_curl: Rules
 
-- Jagawana harus mencari sebuah batu berbentuk balok kemudian pindahkan ke lantai 2, tempat untuk memohon datangnya air.
+- Jagawana harus mencari sebuah batu berbentuk balok kemudian pindahkan ke lantai 2, tempat untuk memohon datangnya air (user diminta untuk memecahkan teka-teki ini).
 - Posisi ember mungkin tersembunyi sehingga Jagawana harus mengeksplore lingkungan sekitar.
 - Apabila para pemburu berhasil menangkap si Jagawana, maka game akan berakhir.
 
