@@ -1,7 +1,12 @@
 # :deciduous_tree: Wanawasa: Guardian of the Forest
 ![ilustrasi](https://user-images.githubusercontent.com/66185022/145715326-f52bb9d3-7895-4514-8ec4-c9528a8b4e00.png)
 
-> Game Demo: [click here]
+> Build Version: [download]
+
+> Project Document: [click here]
+
+> Game Demo: [click me]
+
 
 ## :superhero_man: Team
 
@@ -94,5 +99,6 @@ Tech-stack used for this game:
 ![Screenshot (2787)](https://user-images.githubusercontent.com/66185022/145767244-9b925b81-901c-4a4d-81ae-b40064090782.png)
 
 
-
-[click here]: https://ipb.link/wanawasa-demo
+[download]: https://ipb.link/wanawasa-build-version
+[click here]: https://ipb.link/wanawasa-project-document
+[click me]: https://ipb.link/wanawasa-demo
