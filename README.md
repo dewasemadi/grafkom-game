@@ -84,10 +84,14 @@ Tech-stack used for this game:
 
 ## :video_game: Game View
 
-![Screenshot (2776)](https://user-images.githubusercontent.com/66185022/145712170-bc2b7a4a-cd45-41c4-84f3-d3e51a01ff76.png)
+![Screenshot (2785)](https://user-images.githubusercontent.com/66185022/145767211-8af644b3-86ca-4bc4-943f-6c92e384ae57.png)
 ![Screenshot (2777)](https://user-images.githubusercontent.com/66185022/145712883-4e80619c-24aa-4c3e-b814-f33ef0deceb7.png)
 ![Screenshot (2778)](https://user-images.githubusercontent.com/66185022/145712927-aa7ff2cc-f2d6-4a6b-a0bc-81ba42268e1d.png)
 ![Screenshot (2779)](https://user-images.githubusercontent.com/66185022/145712929-4a40cb21-aeb2-40ca-8d3f-a0c9daf862b3.png)
-![Screenshot (2781)](https://user-images.githubusercontent.com/66185022/145712923-8e7a3671-267f-4a96-9559-d4940900ff0b.png)
-![Screenshot (2780)](https://user-images.githubusercontent.com/66185022/145712931-5e3368aa-2abe-4a2d-9819-0387cb859899.png)
+![Screenshot (2786)](https://user-images.githubusercontent.com/66185022/145767237-5954d52a-60b3-48a0-99d0-6d70ee699a58.png)
+![Screenshot (2787)](https://user-images.githubusercontent.com/66185022/145767244-9b925b81-901c-4a4d-81ae-b40064090782.png)
+
+
+
+
 
